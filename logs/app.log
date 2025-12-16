@@ -1,0 +1,3 @@
+2025-12-16 06:54:27,504 | INFO | job-generator | Generating job for role: QA Engineer, location: San Francisco, USA, experience: 3-5
+2025-12-16 06:55:27,266 | INFO | job-generator | Job generated successfully: QA Engineer at TechSpark
+2025-12-16 06:55:27,596 | INFO | job-generator | Generating job for role: iOS Developer, location: Remote - Global, experience: 0-1
