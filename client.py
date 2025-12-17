@@ -53,7 +53,7 @@ for i in range(1000):
     }
 
     try:
-        response = requests.post(URL, json=payload, timeout=60)
+        response = requests.post(URL, json=payload, timeout=180)
         response.raise_for_status()
 
         job = response.json()

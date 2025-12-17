@@ -1,3 +1,154 @@
 2025-12-16 06:54:27,504 | INFO | job-generator | Generating job for role: QA Engineer, location: San Francisco, USA, experience: 3-5
 2025-12-16 06:55:27,266 | INFO | job-generator | Job generated successfully: QA Engineer at TechSpark
 2025-12-16 06:55:27,596 | INFO | job-generator | Generating job for role: iOS Developer, location: Remote - Global, experience: 0-1
+2025-12-16 06:56:24,619 | INFO | job-generator | Job generated successfully: iOS Developer at Eonix Labs
+2025-12-16 06:56:24,925 | INFO | job-generator | Generating job for role: NLP Engineer, location: London, UK, experience: 2-4
+2025-12-16 06:57:21,500 | INFO | job-generator | Job generated successfully: NLP Engineer at Luminari
+2025-12-16 06:57:21,807 | INFO | job-generator | Generating job for role: Business Analyst, location: Toronto, Canada, experience: 5-8
+2025-12-16 06:58:08,971 | INFO | job-generator | Job generated successfully: Business Analyst at Torontech Solutions
+2025-12-16 06:58:09,278 | INFO | job-generator | Generating job for role: Technical Program Manager, location: Gurgaon, India, experience: 8-12
+2025-12-16 06:59:01,369 | INFO | job-generator | Job generated successfully: Technical Program Manager at Nexarion Inc.
+2025-12-16 06:59:01,681 | INFO | job-generator | Generating job for role: Product Manager, location: Dublin, Ireland, experience: 0-1
+2025-12-16 06:59:49,249 | INFO | job-generator | Job generated successfully: Product Manager at TechVista
+2025-12-16 06:59:49,561 | INFO | job-generator | Generating job for role: iOS Developer, location: Delhi NCR, India, experience: 8-12
+2025-12-16 07:00:49,897 | INFO | job-generator | Generating job for role: Android Developer, location: Indore, India, experience: 3-5
+2025-12-16 07:01:05,869 | INFO | job-generator | Job generated successfully: iOS Developer at Apexionix Solutions
+2025-12-16 07:01:50,065 | INFO | job-generator | Job generated successfully: Android Developer at Aptra Technologies
+2025-12-16 07:01:50,221 | INFO | job-generator | Generating job for role: Platform Engineer, location: Ahmedabad, India, experience: 1-3
+2025-12-16 07:02:35,173 | INFO | job-generator | Job generated successfully: Platform Engineer at Aximo Infotech
+----------------------------
+2025-12-16 08:43:31,622 | INFO | job-generator | Generating job for role: Android Developer, location: Mumbai, India, experience: 1-3
+2025-12-16 08:44:31,945 | INFO | job-generator | Generating job for role: Computer Vision Engineer, location: Remote - Global, experience: 0-1
+2025-12-16 08:44:38,999 | INFO | job-generator | Job generated successfully: Android Developer at TechSpark Solutions
+2025-12-16 08:45:28,571 | INFO | job-generator | Job generated successfully: Computer Vision Engineer at Apexion Technologies
+2025-12-16 08:45:28,882 | INFO | job-generator | Generating job for role: QA Engineer, location: Remote - India, experience: 8-12
+2025-12-16 08:46:14,353 | INFO | job-generator | Job generated successfully: QA Engineer at CodeFusion
+2025-12-16 08:46:14,661 | INFO | job-generator | Generating job for role: Mobile App Developer, location: Vancouver, Canada, experience: 3-5
+2025-12-16 08:47:03,600 | INFO | job-generator | Job generated successfully: Mobile App Developer at Nexusphere
+2025-12-16 08:47:03,911 | INFO | job-generator | Generating job for role: IoT Engineer, location: San Francisco, USA, experience: 1-3
+2025-12-16 08:47:52,044 | INFO | job-generator | Job generated successfully: IoT Engineer at TechForge
+2025-12-16 08:47:52,352 | INFO | job-generator | Generating job for role: Software Engineer, location: Indore, India, experience: 8-12
+2025-12-16 08:48:49,220 | INFO | job-generator | Job generated successfully: Software Engineer at NexaTec
+2025-12-16 08:48:49,542 | INFO | job-generator | Generating job for role: Site Reliability Engineer, location: Kolkata, India, experience: 2-4
+2025-12-16 08:49:39,590 | INFO | job-generator | Job generated successfully: Site Reliability Engineer at Nexusphere
+2025-12-16 08:49:39,897 | INFO | job-generator | Generating job for role: Technical Program Manager, location: Delhi NCR, India, experience: 1-3
+2025-12-16 08:50:35,196 | INFO | job-generator | Job generated successfully: Technical Program Manager at Aurora Innovations
+2025-12-16 08:50:35,505 | INFO | job-generator | Generating job for role: Product Manager, location: Noida, India, experience: 8-12
+2025-12-16 08:51:24,249 | INFO | job-generator | Job generated successfully: Product Manager at Eonix
+2025-12-16 08:51:24,556 | INFO | job-generator | Generating job for role: Product Manager, location: Jaipur, India, experience: 5-8
+2025-12-16 08:52:08,115 | INFO | job-generator | Job generated successfully: Product Manager at NexaTech
+2025-12-16 08:52:08,421 | INFO | job-generator | Generating job for role: Technical Program Manager, location: Paris, France, experience: 0-1
+2025-12-16 08:53:07,310 | INFO | job-generator | Job generated successfully: Technical Program Manager at Eclipse Technologies
+2025-12-16 08:53:07,618 | INFO | job-generator | Generating job for role: Computer Vision Engineer, location: Kolkata, India, experience: 5-8
+2025-12-16 08:54:07,928 | INFO | job-generator | Generating job for role: Platform Engineer, location: Hyderabad, India, experience: 5-8
+2025-12-16 08:54:11,840 | INFO | job-generator | Job generated successfully: Computer Vision Engineer at Nexarion Solutions
+2025-12-16 08:54:58,728 | INFO | job-generator | Job generated successfully: Platform Engineer at Cybrosoft Solutions
+2025-12-16 08:54:59,034 | INFO | job-generator | Generating job for role: Blockchain Developer, location: Delhi NCR, India, experience: 0-1
+2025-12-16 08:55:47,866 | INFO | job-generator | Job generated successfully: Blockchain Developer at Nexusphere
+2025-12-16 08:55:48,181 | INFO | job-generator | Generating job for role: Backend Developer, location: Remote - India, experience: 3-5
+2025-12-16 08:56:40,667 | INFO | job-generator | Job generated successfully: Backend Developer at ApexCore
+2025-12-16 08:56:40,988 | INFO | job-generator | Generating job for role: Mobile App Developer, location: Jaipur, India, experience: 1-3
+2025-12-16 08:57:38,002 | INFO | job-generator | Job generated successfully: Mobile App Developer at Apexion
+2025-12-16 08:57:38,321 | INFO | job-generator | Generating job for role: Mobile App Developer, location: Austin, USA, experience: 8-12
+2025-12-16 08:58:28,687 | INFO | job-generator | Job generated successfully: Mobile App Developer at Zephyrsoft
+2025-12-16 08:58:28,995 | INFO | job-generator | Generating job for role: Computer Vision Engineer, location: Kolkata, India, experience: 0-1
+2025-12-16 08:59:32,321 | INFO | job-generator | Job generated successfully: Computer Vision Engineer at Eonix Labs2025-12-17 05:54:24,691 | INFO | job-generator | POST /generate-job
+2025-12-17 05:55:25,014 | INFO | job-generator | POST /generate-job
+2025-12-17 05:55:37,428 | DEBUG | job-generator | {
+"company_name": "DevSpark Ventures",
+"company_description": "We are a global technology company that specializes in creating innovative software solutions. Our mission is to empower individuals and businesses through cutting-edge technology.",
+"responsibilities": [
+    "Design, develop, test, and maintain Android applications",
+    "Collaborate with cross-functional teams to ensure seamless integration of apps",
+    "Troubleshoot and debug issues related to app performance and functionality"
+],
+"tech_stack": [
+    "Java/Kotlin",
+    "Android SDK",
+    "Gradle",
+    "Git"
+]
+}
+2025-12-17 05:56:25,328 | INFO | job-generator | POST /generate-job
+2025-12-17 05:56:39,927 | DEBUG | job-generator | {
+"company_name": "Nexaera",
+"company_description": "A leading innovator in artificial intelligence and machine learning solutions.",
+"responsibilities": [
+"Design and develop natural language processing models",
+"Contribute to the development of NLP-based products and services",
+"Collaborate with data scientists to integrate NLP models into larger projects",
+"Develop and maintain high-quality NLP tools and libraries",
+"Work closely with cross-functional teams to ensure seamless integration of NLP solutions"
+],
+"tech_stack": [
+"Python",
+"Numpy",
+"Pandas",
+"SciPy",
+"TensorFlow",
+"Keras",
+"Gensim"]
+}
+2025-12-17 05:57:25,596 | DEBUG | job-generator | {
+"company_name": "Nexusphere Technologies",
+"company_description": "A global leader in data-driven solutions",
+"responsibilities": [
+"Design and implement scalable data pipelines",
+"Develop and maintain complex data models",
+"Collaborate with cross-functional teams to drive business insights"
+],
+"tech_stack": ["Apache Beam", "Spark", "Python"]
+}
+2025-12-17 05:57:25,651 | INFO | job-generator | POST /generate-job
+2025-12-17 05:58:17,571 | DEBUG | job-generator | {
+    "company_name": "NexusCyber",
+    "company_description": "A leading cybersecurity solutions provider",
+    "responsibilities": [
+        "Design and implement secure architecture for cloud-based applications",
+        "Conduct vulnerability assessments and penetration testing",
+        "Develop and maintain security policies and procedures"
+    ],
+    "tech_stack": [
+        "AWS", "Azure", "Kubernetes", "Python", "Java", "JavaScript"
+    ]
+}
+2025-12-17 06:03:33,934 | INFO | job-generator | POST /generate-job
+2025-12-17 06:04:34,245 | INFO | job-generator | POST /generate-job
+2025-12-17 06:04:45,523 | INFO | job-generator | Inserted job | title=Site Reliability Engineer | company=ElevateTech
+2025-12-17 06:05:34,579 | INFO | job-generator | POST /generate-job
+2025-12-17 06:05:39,163 | INFO | job-generator | Inserted job | title=Data Scientist | company=Eonix Systems
+2025-12-17 06:06:34,919 | INFO | job-generator | POST /generate-job
+2025-12-17 06:06:38,797 | INFO | job-generator | Inserted job | title=DevOps Engineer | company=ElevateTech
+2025-12-17 06:07:37,289 | INFO | job-generator | Inserted job | title=Embedded Systems Engineer | company=Nexusphere
+2025-12-17 06:07:39,246 | INFO | job-generator | POST /generate-job
+2025-12-17 06:08:37,354 | INFO | job-generator | Inserted job | title=AI Researcher | company=NexusGenix
+2025-12-17 06:08:58,824 | INFO | job-generator | POST /generate-job
+2025-12-17 06:10:00,753 | INFO | job-generator | Inserted job | title=NLP Engineer | company=Apexia
+2025-12-17 06:10:01,078 | INFO | job-generator | POST /generate-job
+2025-12-17 06:10:59,066 | INFO | job-generator | Inserted job | title=Embedded Systems Engineer | company=TechVista
+2025-12-17 06:10:59,396 | INFO | job-generator | POST /generate-job
+2025-12-17 06:12:09,170 | INFO | job-generator | Inserted job | title=AR/VR Engineer | company=Eonix
+2025-12-17 06:12:09,490 | INFO | job-generator | POST /generate-job
+2025-12-17 06:13:25,850 | INFO | job-generator | Inserted job | title=Software Engineer | company=Apexion Technologies
+2025-12-17 06:13:26,175 | INFO | job-generator | POST /generate-job
+2025-12-17 06:14:35,487 | INFO | job-generator | Inserted job | title=QA Engineer | company=NexusCore
+2025-12-17 06:14:35,798 | INFO | job-generator | POST /generate-job
+2025-12-17 06:15:28,280 | INFO | job-generator | Inserted job | title=Android Developer | company=Nexusphere Innovations
+2025-12-17 06:15:28,592 | INFO | job-generator | POST /generate-job
+2025-12-17 06:16:39,883 | INFO | job-generator | Inserted job | title=Computer Vision Engineer | company=TechSpark Solutions
+2025-12-17 06:16:40,203 | INFO | job-generator | POST /generate-job
+2025-12-17 06:17:36,751 | INFO | job-generator | Inserted job | title=Data Scientist | company=NexaCorp
+2025-12-17 06:18:33,482 | INFO | job-generator | POST /generate-job
+2025-12-17 06:21:33,794 | INFO | job-generator | POST /generate-job
+2025-12-17 06:21:38,681 | INFO | job-generator | Inserted job | title=Site Reliability Engineer | company=Apexion
+2025-12-17 06:23:58,832 | INFO | job-generator | Inserted job | title=Security Engineer | company=SpectraForge
+2025-12-17 06:23:59,165 | INFO | job-generator | POST /generate-job
+2025-12-17 06:26:24,629 | INFO | job-generator | Inserted job | title=Mobile App Developer | company=Elevateonix
+2025-12-17 06:26:24,937 | INFO | job-generator | POST /generate-job
+2025-12-17 06:28:46,099 | INFO | job-generator | Inserted job | title=Data Analyst | company=Nexigen Solutions
+2025-12-17 06:28:46,428 | INFO | job-generator | POST /generate-job
+2025-12-17 06:31:08,607 | INFO | job-generator | Inserted job | title=AR/VR Engineer | company=Nexusphere Technologies
+2025-12-17 06:31:08,920 | INFO | job-generator | POST /generate-job
+2025-12-17 06:33:23,322 | INFO | job-generator | Inserted job | title=Business Analyst | company=Pulsebytes Technologies
+2025-12-17 06:33:23,634 | INFO | job-generator | POST /generate-job
+2025-12-17 06:35:52,077 | INFO | job-generator | Inserted job | title=DevOps Engineer | company=Axelonix Solutions
